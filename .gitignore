@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.env
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+build/
+*.log
+
+# IDE & System
+.DS_Store
+*.swp
+
